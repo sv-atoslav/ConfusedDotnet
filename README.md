@@ -26,7 +26,7 @@ trusted party (typically yourself or your company).
 
 dotnet sdk is a prerequisite for this tool to work. You can download it here: https://dotnet.microsoft.com/download
 
-- git clone https://github.com/sv-atoslav/ConfusedDotnet
+`git clone https://github.com/sv-atoslav/ConfusedDotnet`
 
 ## Usage
 ```
